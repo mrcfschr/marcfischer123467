@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=marcfischer123467&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcfischer123467&show_icons=true&theme=radical)
 <!--
 **marcfischer123467/marcfischer123467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
